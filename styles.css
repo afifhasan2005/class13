@@ -1,0 +1,11 @@
+.hero-contant span {
+color:orange
+}
+.hero-contant h1{
+    font-weight:700;
+    line-height: 70px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
